@@ -12,6 +12,7 @@ A modern Python GUI tool for hiding and revealing secret messages in images usin
 - **Robust Error Handling:** Friendly messages for missing images, wrong passwords, or capacity issues.
 
 ## Screenshots
+<img width="1919" height="1135" alt="image" src="https://github.com/user-attachments/assets/8f69a5fd-5fe0-44cb-abf5-9dab20644c25" />
 
 
 ## Installation
