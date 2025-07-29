@@ -12,15 +12,20 @@ A modern Python GUI tool for hiding and revealing secret messages in images usin
 - **Robust Error Handling:** Friendly messages for missing images, wrong passwords, or capacity issues.
 
 ## Screenshots
+**Hiding Text**
 <img width="1919" height="1135" alt="image" src="https://github.com/user-attachments/assets/8f69a5fd-5fe0-44cb-abf5-9dab20644c25" />
+
+**Extracting Text**
+<img width="1919" height="1133" alt="image" src="https://github.com/user-attachments/assets/92547df5-0e60-4f42-8dd8-f0483efdd4c0" />
+
 
 
 ## Installation
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/secret-image-messenger.git
-    cd secret-image-messenger
+    git clone https://github.com/Rachit170/Steganography-App-Messenger.git
+    cd Steganography-App-Messenger
     ```
 
 2. **Install dependencies:**
